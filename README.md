@@ -53,7 +53,7 @@ A quick MVP project built in 1 day to present history content without using a fr
 
 ---
 
-## ⚙️ LamVienFNB – Laravel + React App (Private)
+## ⚙️ LamVienFNB – Laravel + Vue App (Private)
 **Tech stack:** Laravel, React, MySQL  
 My first experiment combining Laravel as backend and React as frontend to manage products and orders in the F&B sector.  
 🔒 Private – Learning project to explore new technologies
